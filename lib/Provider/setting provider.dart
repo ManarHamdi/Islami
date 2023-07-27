@@ -21,4 +21,7 @@ class SettingProvider extends ChangeNotifier{
     notifyListeners();
   }
 
+
+
+
 }
